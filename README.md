@@ -1,1 +1,1 @@
-# Projeto Alura API do forum de dúvidas
+# Projeto do curso Alura - API do fórum de dúvidas
